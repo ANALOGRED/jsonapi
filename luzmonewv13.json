@@ -1,14 +1,14 @@
 [
   {
-    "rate": "YES",
+    "rate": "NO",
     "rateapp": "NO",
     "showads": "NO",
-    "fivestar": "YES",
+    "fivestar": "NO",
     "itune": "NO",
     "itunelink": "NO",
     "inapp": "1",
-    "rateallday": "YES",
+    "rateallday": "NO",
     "bonus": "NO",
-    "rewardbonus": "YES"
+    "rewardbonus": "NO"
   }
 ]
